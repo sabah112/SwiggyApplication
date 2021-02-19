@@ -1,0 +1,5 @@
+[0216/122609.161:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Lenovo\AppData\Local\Temp\scoped_dir5916_253888899\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0216/123106.468:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Lenovo\AppData\Local\Temp\scoped_dir9296_608138898\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0216/124006.455:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Lenovo\AppData\Local\Temp\scoped_dir7272_1564819948\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0216/181708.763:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Lenovo\AppData\Local\Temp\scoped_dir4496_1491730013\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0219/133201.878:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Lenovo\AppData\Local\Temp\scoped_dir11716_649791260\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
